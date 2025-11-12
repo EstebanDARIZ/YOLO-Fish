@@ -2,7 +2,7 @@
 
 ## Tuto to run 
 
-    ./darknet detector demo ../data/obj.data ../cfg/yolo-fish-2.cfg ../backup/deep_yolo-fish-2.weights /home/esteban-dreau-darizcuren/doctorat/dataset/Raie_event.mp4 -dont_show -ext_output -out_filename ../output.avi
+    ./darknet detector demo ../data/obj.data ../cfg/yolo-fish-2.cfg ../backup/deep_yolo-fish-2.weights /home/esteban-dreau-darizcuren/doctorat/dataset/Lune_event.mp4 -dont_show -ext_output -out_filename ../results/output.avi
 
 
 
