@@ -1,4 +1,15 @@
 # YOLO-Fish
+
+## Tuto to run 
+
+    ./darknet detector demo ../data/obj.data ../cfg/yolo-fish-2.cfg ../backup/deep_yolo-fish-2.weights /home/esteban-dreau-darizcuren/doctorat/dataset/Raie_event.mp4 -dont_show -ext_output -out_filename ../output.avi
+
+
+
+
+
+
+# YOLO-Fish
 ## A Robust Fish Detection Model to Detect Fish in Realistic Underwater Environment.
 ### Accepted At Ecological Informatics [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1574954122002977)
 ![Model Architecture](model_architecture.jpg)
