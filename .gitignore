@@ -3,3 +3,10 @@ backup
 cfg 
 results
 data
+# Darknet binaries
+darknet/
+*.o
+*.so
+*.exe
+*.dll
+*.weights
